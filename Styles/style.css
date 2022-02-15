@@ -84,3 +84,13 @@ section.sidebar-button-text{
     margin-top: -23px;
     margin-left: 35px;
 }
+
+/* Footer Styles */
+footer {
+    width: 98%;
+    float: left;
+    padding: 1%;
+    background-color: #003062;
+    border-top: 2px solid #152c3d;
+    margin-top: 10px;
+}
