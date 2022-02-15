@@ -47,7 +47,6 @@
 #sidebar .sidebar-button{
     position: absolute;
     left: 300px;
-    top: -5px;
     /* background: #003062; */
     padding: 10px;
     border-radius: 12px;
@@ -75,7 +74,7 @@ hr.firstTopLine{
     height: 3px;
     margin-left: 0.15%;
     background: #000000;
-    top: 37px;
+    top: 4.95%;
 }
 hr.secondTopLine{
     position: absolute;
@@ -83,7 +82,7 @@ hr.secondTopLine{
     height: 3px;
     margin-left: 54.9%;
     background: #000000;
-    top: 5.05%;
+    top: 4.95%;
 }
 img.topLogo{
     position: absolute;
