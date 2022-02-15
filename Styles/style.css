@@ -6,11 +6,15 @@
 
 #sidebar {
     position: fixed;
-    width: 250px;
+    width: 280px;
     height: 100%;
     background: #003062;
-    border-right: 4px solid #2f404d;
-    left: -250px;
+    border-right: 4px solid #152c3d;
+    left: -280px;
+
+    -moz-transition: all 600ms;
+    -webkit-transition: all 600ms;
+    transition: all 600ms;
 }
 
 #sidebar.active {
@@ -42,12 +46,15 @@
 
 #sidebar .sidebar-button {
     position: absolute;
-    left: 270px;
+    left: 300px;
     top: 20px;
     background: #003062;
     padding: 10px;
     border-radius: 12px;
     cursor: pointer;
+    -moz-transition: all 600ms;
+    -webkit-transition: all 600ms;
+    transition: all 600ms;
 }
 
 #sidebar .sidebar-button:hover {background: #d6d6d6;}
