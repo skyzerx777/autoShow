@@ -59,7 +59,7 @@
 }
 
 #sidebar .sidebar-button:hover span {background: #0a9cf5;}
-
+#sidebar .sidebar-button:hover section{color: #0a9cf5}
 #sidebar .sidebar-button span {
     display: block;
     width: 25px;
@@ -83,7 +83,11 @@ section.sidebar-button-text{
     color: #003062;
     margin-top: -23px;
     margin-left: 35px;
+    -moz-transition: all 400ms;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
 }
+
 
 /* Footer Styles */
 footer {
