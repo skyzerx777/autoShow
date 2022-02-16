@@ -102,7 +102,7 @@ footer {
     color: #003062;
     font-size: 18px;
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .footer-navigation a:hover{
@@ -113,7 +113,7 @@ footer {
 }
 
 .social {
-    padding-left: 46.4%;
+    padding-left: 46.2%;
     width: 20%;
 }
 
@@ -142,3 +142,15 @@ footer #rights {
     height: auto;
     scale: 10%;
 } */
+img.bottomLogo {
+    
+    width: 10%;
+    margin-left: 45.12%;
+    top: 90%;
+    transform: scale(998%);
+}
+.text{
+   text-align: center; 
+   margin-left: 1%;
+   margin-right: 1%;
+}
