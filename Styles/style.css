@@ -103,6 +103,7 @@ footer {
     font-size: 18px;
     text-decoration: none;
     margin-left: 15px;
+    text-align: right;
 }
 
 .footer-navigation a:hover{
@@ -115,6 +116,7 @@ footer {
 .social {
     padding-left: 46.2%;
     width: 20%;
+    margin-bottom: 4px;
 }
 
 .social img{
@@ -133,7 +135,7 @@ footer {
 footer #rights {
     width: 100%;
     text-align: right;
-    font-size: 1.1em;
+    font-size: 14px;
     color: #000000;
 }
 
